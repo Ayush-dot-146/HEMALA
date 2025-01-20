@@ -1,6 +1,5 @@
 import React from 'react';
 import { Search, MapPin, Star, Phone, Shield } from 'lucide-react';
-import { BrowserRouter as Router, Route} from 'react-router-dom';
 import Navbar from './components/Navbar';
 import HotelCard from './components/HotelCard';
 import Footer from './components/Footer';
@@ -66,7 +65,6 @@ const App: React.FC = () => {
   };
 
   return (
-    <Router>
       <div className="min-h-screen bg-gray-50">
         <Navbar />
         {/* Hero Section */}
@@ -142,7 +140,6 @@ const App: React.FC = () => {
 
         <Footer />
       </div>
-    </Router>
   );
 };
 
