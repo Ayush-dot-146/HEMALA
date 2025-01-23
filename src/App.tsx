@@ -31,7 +31,7 @@ const App: React.FC = () => {
       location: "Ladai, Maharashtra 440023",
       rating: 4.6,
       price: 1199,
-      image: "/hot3.jpg",
+      image: "https://github.com/Ayush-dot-146/HEMALA/blob/main/hot3.jpg?raw=true",
       amenities: ["Luxary Rooms","Pool","Lawn"]
     },
     {
