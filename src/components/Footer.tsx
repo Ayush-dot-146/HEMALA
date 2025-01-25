@@ -9,7 +9,7 @@ const Footer = () => {
           <div>
             <h3 className="text-xl font-bold text-white mb-4">About HEMALA</h3>
             <ul className="space-y-2">
-              <li><a href="/src/components/aboutus.html" className="hover:text-white">About Us</a></li>
+              <li><a href="/src/components/auth/aboutus.html" className="hover:text-white">About Us</a></li>
               <li><a href="#" className="hover:text-white">Careers</a></li>
               <li><a href="#" className="hover:text-white">Press Center</a></li>
               <li><a href="#" className="hover:text-white">HEMALA Circle</a></li>
