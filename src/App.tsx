@@ -49,7 +49,7 @@ const App: React.FC = () => {
       location: "Byramji Town, Nagpur, Maharashtra 440013",
       rating: 4.6,
       price: 11999,
-      image: "/hot5.png",
+      image: "https://github.com/Ayush-dot-146/HEMALA/blob/main/hot5.png?raw=true",
       amenities:["Birthday Parties","DJ","Pool","3 BHK Villa","For 10 Peoples"]
     }
   ];
