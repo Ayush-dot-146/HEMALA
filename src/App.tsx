@@ -40,7 +40,7 @@ const App: React.FC = () => {
       location: "Tidangi and Teigaon Villages., Nagpur, Maharashtra 441306",
       rating: 4.8,
       price: 1549,
-      image: "/hot4.jpg",
+      image: "https://github.com/Ayush-dot-146/HEMALA/blob/main/hot4.jpg?raw=true",
       amenities: ["Luxary Rooms", "Pool", "Club House","Lawn","Indoor Games","Outdoor Games","Garden","Swimming Pool","Rain Dance","DJ","Destination Wedding","Adventure Park"]
     },
     {
