@@ -9,7 +9,7 @@ const Navbar = () => {
           <div className="flex items-center">
             
             <img 
-          src="\image1.jpeg" 
+          src="https://github.com/Ayush-dot-146/HEMALA/blob/main/image1.jpeg?raw=true" 
           alt="Logo" 
           className="navbar-logo"
           style={{ height: '60px', width: 'auto' }}
