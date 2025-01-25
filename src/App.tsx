@@ -13,7 +13,7 @@ const App: React.FC = () => {
       location: "brekka club Road, Wanjara, Maharashtra 441103",
       rating: 4.0,
       price: 599,
-      image: "https://github.com/Ayush-dot-146/HEMALA/blob/main/hot1.jpeg",
+      image: "https://github.com/Ayush-dot-146/HEMALA/blob/main/hot1.jpeg?raw=true",
       amenities: [ "AC", "Breakfast","Lunch","High Tea","Dinner","Swimming Pool","Rain Dance","DJ","Destination Wedding"]
     },
     {
