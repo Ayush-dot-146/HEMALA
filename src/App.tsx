@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+
 import Navbar from './components/Navbar';
 import Login from './components/Auth/Login';
 
@@ -79,7 +79,7 @@ const App: React.FC = () => {
   };
 
   return (
-    <Router>
+    
       
         <Navbar />
         {/* Hero Section */}
@@ -142,14 +142,10 @@ const App: React.FC = () => {
             ))}
           </div>
         </div>
-        <Routes>
-          <Route path="/login" element={<Login />} />
-          <Route path="/register" element={<Register />} />
-          {/* Add other routes here */}
-        </Routes>
+        
         <Footer />
       
-    </Router>
+    
   );
 };
 
