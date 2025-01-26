@@ -92,7 +92,7 @@ const App: React.FC = () => {
               muted
               playsInline
             >
-              <source src="/video.mp4" type="video/mp4" />
+              <source src="https://github.com/Ayush-dot-146/HEMALA/blob/main/video(1).mp4?raw=true/video.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
             <div className="absolute inset-0 bg-black/30" />
